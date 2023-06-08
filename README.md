@@ -1,2 +1,2 @@
 # memokaso
-This is memo from kaso and fuck u
+This is memo from kaso
